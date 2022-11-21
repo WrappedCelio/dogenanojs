@@ -36,7 +36,7 @@ const {getUptime} = require("dogenanojs");
 getUptime()
 // in seconds
 ```
-<img src="https://media.discordapp.net/attachments/1035519056473751587/1043901228679188600/90b089ea-0f7d-451a-b0ea-28fe51112d68_1.gif"/>
+<a href = "https://dogenano.io"><img src="https://media.discordapp.net/attachments/1035519056473751587/1043901228679188600/90b089ea-0f7d-451a-b0ea-28fe51112d68_1.gif"/></a>
 
 
 
